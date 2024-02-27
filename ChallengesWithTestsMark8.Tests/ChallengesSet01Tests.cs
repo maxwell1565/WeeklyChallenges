@@ -150,7 +150,7 @@ namespace ChallengesWithTestsMark8.Tests
             string actual = challenger.GetHey();
 
             // Assert
-            Assert.Equal("hey", actual);
+            Assert.Equal("Hey", actual);
         }
     }
 }
