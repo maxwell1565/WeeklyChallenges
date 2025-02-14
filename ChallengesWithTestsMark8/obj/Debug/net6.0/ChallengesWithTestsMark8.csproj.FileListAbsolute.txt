@@ -1,9 +1,10 @@
+/Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/xunit.abstractions.dll
+/Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/xunit.runner.visualstudio.testadapter.dll
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.deps.json
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.runtimeconfig.json
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.dll
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb
-/Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.AssemblyReference.cache
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs
@@ -13,3 +14,4 @@
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.pdb
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.genruntimeconfig.cache
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.dll
+/Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.sourcelink.json

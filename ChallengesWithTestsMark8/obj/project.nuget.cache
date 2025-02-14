@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RLmueLxm0raZTQ06e0FIsvfzcYYTO6KJEZ9KLTqhsC52vZbMvUFcg+ABmXsmU4RklUN8/FN6GAimkeNRBsX9XQ==",
+  "dgSpecHash": "NsMUI02xWDc=",
   "success": true,
   "projectFilePath": "/Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/maxwellstangler/.nuget/packages/xunit.runner.visualstudio/3.0.2/xunit.runner.visualstudio.3.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

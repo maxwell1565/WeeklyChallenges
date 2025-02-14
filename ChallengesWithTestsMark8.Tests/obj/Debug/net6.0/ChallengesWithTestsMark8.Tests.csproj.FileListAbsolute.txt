@@ -1,5 +1,7 @@
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.deps.json
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/xunit.abstractions.dll
+/Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/xunit.runner.visualstudio.testadapter.dll
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/xunit.runner.reporters.netcoreapp10.dll
@@ -20,7 +22,6 @@
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/testhost.dll
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/Newtonsoft.Json.dll
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/System.Xml.XPath.XmlDocument.dll
-/Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/xunit.abstractions.dll
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/xunit.assert.dll
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/xunit.core.dll
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/xunit.execution.dotnet.dll
@@ -96,9 +97,10 @@
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
-/Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.csproj.CopyComplete
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.dll
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/refint/ChallengesWithTestsMark8.Tests.dll
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.pdb
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
 /Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.Tests.dll
+/Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.sourcelink.json
+/Users/maxwellstangler/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/Challeng.F01045AE.Up2Date
